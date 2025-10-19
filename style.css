@@ -221,7 +221,7 @@ body.dark .head .round.text {
 }
 
 .vcard h1.name-border {
-	border-bottom: 2px solid red;
+	border-bottom: 2px solid orange;
 }
 
 .vcard h1 span[data-toggle] { 
